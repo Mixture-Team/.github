@@ -1,6 +1,6 @@
-## 🌟 Introduction
+<h1 align="center">Hi everyone 👋 Mixture-Team</h1>
 
-Mixture-Team is a group of passionate young developers with diverse expertise and a shared commitment to innovation. Our team thrives on collaboration and the pursuit of technological excellence to create meaningful solutions for communities and businesses alike.
+<h4 align="center">Mixture-Team is a group of enthusiastic young developers with diverse skills and a creative spirit. We collaborate to develop modern technological projects, bringing practical value to the community and businesses.</h4>
 
 ## 🧑‍🤝‍🧑 Members
 
