@@ -1,6 +1,6 @@
-<h1 align="center">Hi everyone 👋 Mixture-Team</h1>
+<h1 align="center">Hi everyone 👋 Mixture-Tech</h1>
 
-<h4 align="center">Mixture-Team is a group of enthusiastic young developers with diverse skills and a creative spirit. We collaborate to develop modern technological projects, bringing practical value to the community and businesses.</h4>
+<h4 align="center">Mixture-Tech is a group of enthusiastic young developers with diverse skills and a creative spirit. We collaborate to develop modern technological projects, bringing practical value to the community and businesses.</h4>
 
 ## 🧑‍🤝‍🧑 Members
 
@@ -35,9 +35,9 @@
 ## 📩 Contact
 
 - Email: [vanhoang1231234@gmail.com](mailto\:vanhoang1231234@gmail.com)
-- GitHub: [Mixture-Team](https://github.com/Mixture-Team)
+- GitHub: [Mixture-Tech](https://github.com/Mixture-Tech)
 
 ---
 
-Thank you for your interest in Mixture-Team. We always welcome ideas and opportunities to collaborate and grow together!
+Thank you for your interest in Mixture-Tech. We always welcome ideas and opportunities to collaborate and grow together!
 
